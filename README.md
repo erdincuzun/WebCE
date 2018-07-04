@@ -7,6 +7,9 @@ In first step, we use the sub-tree raising method of decision tree learning meth
 
 <a href="https://www.e-adys.com/webce/" target="_blank">Click for images...</a>
 
+# Python_Scikit-Learn
+The codes of this directory is written with Python. Scikit-learn library is used for evaluating feature selection tecniques and classifiers. 
+
 # Publications
 <b>A hybrid approach for extracting informative content from web pages.</b> Uzun, E.; Agun, H., V.; and Yerlikaya, T. Information Processing and Management, 49(4): 928-944. 2013. 
 
