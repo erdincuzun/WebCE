@@ -1,0 +1,1 @@
+Open the zip file annotated2 to the directory of annotated2
