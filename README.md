@@ -5,7 +5,7 @@ WEBCE is a two-step algorithm. In the first step, we remove noisy blocks and the
 
 In first step, we use the sub-tree raising method of decision tree learning method for the extraction of the content blocks. We establish our learning method to DIV and TD html tags. Therefore, in second step we effectively parse web pages by using these tags.
 
-<a href="https://www.e-adys.com/webce/" target="_blank">Click for images...</a>
+<a href="https://adys.nku.edu.tr/webce/" target="_blank">Click for images...</a>
 
 # Python_Scikit-Learn
 The codes of this directory are written with Python. Scikit-learn library is used for evaluating feature selection tecniques and classifiers. 
